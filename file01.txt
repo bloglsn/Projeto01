@@ -1,3 +1,0 @@
-Version 1.0 file01.txt
-
-Version 2.0 file01.txt

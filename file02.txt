@@ -1,5 +1,0 @@
-Version 1.0 file02.txt - branch ramo1
-
-Version 2.0 file02.txt - branch master
-
-Version 3.0 of file02.txt - branch ramo1
